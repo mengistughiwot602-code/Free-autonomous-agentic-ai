@@ -18,7 +18,7 @@ with st.sidebar:
     openrouter_key = st.text_input("OpenRouter API Key", type="password")
     tavily_key = st.text_input("Tavily API Key", type="password")
     st.markdown("---")
-    st.markdown("Built with [CrewAI](https://crewai.com)")
+    st.markdown("Developed by DSstudentMengie@bdu")
 
 topic = st.text_input("Enter your research topic:", value="")
 
